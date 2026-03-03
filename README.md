@@ -7,3 +7,4 @@ Transfer learning is applied by freezing the BERT layers during initial training
 The training process includes validation monitoring, learning rate scheduling, early stopping, and automatic saving of the best model. The final evaluation includes **test accuracy, confusion matrix, classification report, and visualization of misclassified images**.
 
 The repository contains the complete pipeline for preprocessing, multimodal training, evaluation, and single-image prediction.
+[Check out Google](https://www.google.com)
